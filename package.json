@@ -1,0 +1,8 @@
+{
+  "name": "nuber-server",
+  "version": "1.0.0",
+  "description": "Server for the (N)Uber Clone Course with Graphql, Typescript, NodeJS",
+  "main": "index.js",
+  "author": "joe1220",
+  "license": "MIT"
+}
